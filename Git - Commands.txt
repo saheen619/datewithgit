@@ -17,7 +17,8 @@ Git checkout feature
 Git merge master         #fast-forward merge
 
 Git diff
-git stash
+Git stash
+Git log --all --decorate --graph
 
 
 
