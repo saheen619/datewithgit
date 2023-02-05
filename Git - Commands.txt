@@ -24,7 +24,12 @@ Git remote add hub https://github.com/saheen619/datewithgit.git
 Git remote
 Git remote -v
 Git push hub master
+Git push orgin master			#for cloned repos
 
+Git pull				#means fetch from the orgin
+Git merge master			#means to merge the current branch with latest master branch
+Git push orgin <socialmedia>
+ 
 
 $ git
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
