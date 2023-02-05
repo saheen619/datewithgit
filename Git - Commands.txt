@@ -1,4 +1,17 @@
-Just Checking
+Git commands Learned.
+Git
+Git Init
+Git status
+Git Add <file_name>
+Git add --all
+Git commit -m "<message>"
+Git log
+Git log --all
+Git checkout master
+Git checkout <53d0d1be2e1f690b043f3116c55c10f4b0f20bf5 - Commit Id>
+
+
+
 
 
 $ git
