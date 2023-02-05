@@ -9,6 +9,9 @@ Git log
 Git log --all
 Git checkout master
 Git checkout <53d0d1be2e1f690b043f3116c55c10f4b0f20bf5 - Commit Id>
+Git branch feature
+Git checkout feature
+
 
 
 
