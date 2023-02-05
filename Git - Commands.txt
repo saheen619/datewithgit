@@ -20,8 +20,10 @@ Git diff
 Git stash
 Git log --all --decorate --graph
 
-
-
+Git remote add hub https://github.com/saheen619/datewithgit.git
+Git remote
+Git remote -v
+Git push hub master
 
 
 $ git
