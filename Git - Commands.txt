@@ -79,6 +79,7 @@ $ ls			##to view the content of the pwd
 $ cd documents/		##to change directory
 $ ls -a                 ##to see the hidden files in a dir
 $ pwd			##to the path to present working dir
+$ cd ..			##will come out of pwd to the previous directory
 
 $ git init		##to initialize git into the pwd
 $ git status 		##to know the status of working tree
