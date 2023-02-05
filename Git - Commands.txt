@@ -14,7 +14,7 @@ Git checkout <feature#branch_name>
 Git branch
 
 Git checkout feature
-Git merge master
+Git merge master         #fast-forward merge
 
 Git diff
 git stash
